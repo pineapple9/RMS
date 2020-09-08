@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/protoss-academy/bootexamine-student17" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/protoss-academy/bootexamine-student20" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
